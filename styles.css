@@ -1,0 +1,29 @@
+h1 {
+    border: 1px black dashed;
+}
+
+h2 {
+    color: hotpink;
+    text-decoration: underline;
+}
+
+#sun-text {
+    color: yellow;
+    background-color: black;
+    text-decoration: underline;
+}
+
+.known-weather {
+    color: darkblue;
+    font-family: courier, serif;
+}
+
+.day-header {
+    background-color: lightgreen;
+}
+
+#today {
+    color: darkorange;
+    font-size: 4rem;
+}
+
